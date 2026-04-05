@@ -1,0 +1,5 @@
+{
+  "name": "Batch MP4 to MP3 Converter",
+  "description": "A powerful browser-based tool to convert multiple large MP4 video files to MP3 audio format simultaneously using FFmpeg.wasm.",
+  "requestFramePermissions": []
+}
